@@ -1,9 +1,9 @@
 {
     "appName": "Player spotter",
     "description": "Spots players on the minimap and warns the user",
-    "appUrl": "https://cubeee.github.io/alt1-player-spotter/",
-    "configUrl": "https://cubeee.github.io/alt1-player-spotter/appconfig.json",
-    "iconUrl": "https://cubeee.github.io/alt1-player-spotter/app_icon.png",
+    "appUrl": "https://wittypleb.github.io/alt1-player-spotter/",
+    "configUrl": "https://wittypleb.github.io/alt1-player-spotter/appconfig.json",
+    "iconUrl": "https://wittypleb.github.io/alt1-player-spotter/app_icon.png",
     "defaultWidth": 400,
     "defaultHeight": 200,
     "minWidth": 250,
